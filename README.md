@@ -10,8 +10,10 @@ chains (ALDI, Lidl, REWE, EDEKA, Kaufland, Netto, PENNY and more): product, pack
 - **Ingredients** lists every ingredient by category. Open one to see the product picked at each chain, why it was
   picked, how its price per kg compares with GoPrep's catalogue, and the other products the search found.
   Mark each pick **OK** or **No**, or add a better product with **Use for …**.
-- **All products** searches about 25,700 products by name, brand, category or EAN. Filter by chain or source, or show
-  only products no ingredient uses yet, and assign one to an ingredient.
+- **All products** searches about 25,700 products by name, brand, category or EAN. Each product shows the ingredients
+  it is assigned to, with the model's certainty from 1/5 (least sure, usually a substitute) to 5/5. Filter by chain,
+  source or certainty, sort least certain first, and mark each assignment **OK** or **No** right there — or assign
+  a product to an ingredient yourself.
 - Your decisions are kept in your own browser. When you're done, click **Download my decisions** and send the file to
   the GoPrep team.
 
