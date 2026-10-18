@@ -1,7 +1,7 @@
 # GoPrep Store Matches
 
-Which supermarket product to buy for each of [GoPrep](https://www.goprep.pro)'s 231 recipe ingredients, at the big German
-chains (ALDI, Lidl, REWE, EDEKA, Kaufland, Netto, PENNY and more): product, pack size, price and price per kg.
+Which supermarket product to buy for each of [GoPrep](https://www.goprep.pro)'s 231 recipe ingredients, at the seven big
+German chains (ALDI, EDEKA, Kaufland, Lidl, Netto, PENNY, REWE): product, pack size, price and price per kg.
 
 **Open it:** https://joaquin-duran.github.io/goprep-store-matches/ — ask the GoPrep team for the password.
 
@@ -11,11 +11,12 @@ chains (ALDI, Lidl, REWE, EDEKA, Kaufland, Netto, PENNY and more): product, pack
   picked, how its price per kg compares with GoPrep's catalogue, and the other products the search found.
   Mark each pick **OK** or **No**, or add a better product with **Use for …**. **Used in … recipes** lists every
   recipe with that ingredient and its amount per portion, linked to the recipe page on goprep.pro.
-- **All products** searches about 25,700 products by name, brand, category or EAN. Each product shows the ingredients
+- **All products** searches about 25,400 products by name, brand, category or EAN. Each product shows the ingredients
   it is assigned to, with the model's certainty from 1/5 (least sure, usually a substitute) to 5/5. Filter by chain,
   source or certainty, sort least certain first, and mark each assignment **OK** or **No** right there. To collect
   products for one ingredient, pick it under **Add products to**, then search with any words and click
-  **Add to …** on each product; the field in a row still assigns that product to a different ingredient.
+  **Add to …** on each product; the field in a row still assigns that product to a different ingredient. The strip
+  shows which chains already have a product for that ingredient (✓ / ✗) and the recipes that use it.
 - Your decisions are kept in your own browser. When you're done, click **Download my decisions** and send the file to
   the GoPrep team.
 
