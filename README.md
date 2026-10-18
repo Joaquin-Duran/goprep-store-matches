@@ -13,8 +13,9 @@ chains (ALDI, Lidl, REWE, EDEKA, Kaufland, Netto, PENNY and more): product, pack
   recipe with that ingredient and its amount per portion, linked to the recipe page on goprep.pro.
 - **All products** searches about 25,700 products by name, brand, category or EAN. Each product shows the ingredients
   it is assigned to, with the model's certainty from 1/5 (least sure, usually a substitute) to 5/5. Filter by chain,
-  source or certainty, sort least certain first, and mark each assignment **OK** or **No** right there — or assign
-  a product to an ingredient yourself.
+  source or certainty, sort least certain first, and mark each assignment **OK** or **No** right there. To collect
+  products for one ingredient, pick it under **Add products to**, then search with any words and click
+  **Add to …** on each product; the field in a row still assigns that product to a different ingredient.
 - Your decisions are kept in your own browser. When you're done, click **Download my decisions** and send the file to
   the GoPrep team.
 
