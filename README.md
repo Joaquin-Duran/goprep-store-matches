@@ -16,7 +16,8 @@ German chains (ALDI, EDEKA, Kaufland, Lidl, Netto, PENNY, REWE): product, pack s
   source or certainty, sort least certain first, and mark each assignment **OK** or **No** right there. To collect
   products for one ingredient, pick it under **Add products to**, then search with any words and click
   **Add to …** on each product; the field in a row still assigns that product to a different ingredient. The strip
-  shows which chains already have a product for that ingredient (✓ / ✗) and the recipes that use it.
+  shows which chains already have a product for that ingredient (✓ / ✗) and the recipes that use it; click a chain to
+  see its product and mark it OK or No, or to jump to that chain's products when it has none yet.
 - Your decisions are kept in your own browser. When you're done, click **Download my decisions** and send the file to
   the GoPrep team.
 
